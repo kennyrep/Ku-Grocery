@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">KU Grocery</string>
+    <string name="out_of_stock">Out of stock</string>
+    <string name="stationery">Stationery</string>
+    <string name="category">Category</string>
+    <string name="search">Search</string>
+    <string name="no_items_matching_your_search">No items matching your search</string>
+    <string name="product_size">Size: %d</string>
+    <string name="logout">Logout</string>
+    <string name="cart">Cart</string>
+    <string name="_1">1</string>
+    <string name="customer_first_name">Customer First Name</string>
+    <string name="customer_last_name">Customer Last Name</string>
+    <string name="customer_email_address">Customer Email Address</string>
+    <string name="cust_phone">Customer Phone Number</string>
+    <string name="receipt">Receipt</string>
+    <string-array name="categories">
+        <item>Stationery</item>
+        <item>Sweets</item>
+        <item>Drinks</item>
+    </string-array>
+    <string-array name="categories_all">
+        <item>All Products</item>
+        <item>Stationery</item>
+        <item>Sweets</item>
+        <item>Drinks</item>
+    </string-array>
+
+</resources>
